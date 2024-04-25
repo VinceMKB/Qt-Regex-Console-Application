@@ -26,7 +26,7 @@ This project uses the following:
 - **Step 3**:In the dialog that appears, choose where you want the extracted files to be placed. By default, Windows will suggest extracting them to a folder with the same name as the zipped file, in the same location.  
 - **Step 4**: Click the "Extract" button to start the extraction process. Once it's done, you can open the destination folder to access the extracted files.
 - **Step 5**: Open QtCreator and click on 'Open Project'
-- **Step 6**: Navigate to the extracted file named 'PurchaseManager' and locate the file called 'CMakeLists'
+- **Step 6**: Navigate to the extracted file and locate the file called 'CMakeLists'
 - **Step 7**: Click on 'CMakeLists' file and click 'Open'
 - **Step 8**: The project should open up on QtCreator
 
