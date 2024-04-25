@@ -1,6 +1,6 @@
-#Regex Console Application
-
+#RegexConsoleApplication
 ##Description
+
 This Qt-based console application analyzes text files for specific patterns in words. It allows users to apply different filters to count specific types of words within given text files.
 
 ## Features
