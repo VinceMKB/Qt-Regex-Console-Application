@@ -11,7 +11,7 @@ The application supports the following commands and options:
 - **count -d**: Count words that do not start with a vowel.
 - **count -help**: Display help information about the commands.
 
-##Dependencies
+## Dependencies
 This project uses the following:
 -QtCreator IDE in Qt version 6.5
 -CMake
